@@ -175,5 +175,4 @@ gcc main.c -o editor
 * Object creation, deletion, and modification
 
 ## Author
-
-Thulasi Rame Gowda
+Varalakshmi T J
